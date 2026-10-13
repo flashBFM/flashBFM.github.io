@@ -2,7 +2,7 @@
 
 This repository hosts the static website served at:
 
-<https://flashbfm.github.io/>
+<https://flashBFM.github.io/>
 
 ## Structure
 
